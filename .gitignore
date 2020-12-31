@@ -1,0 +1,33 @@
+# Eclipse
+.classpath
+.project
+.factorypath
+.settings
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log
+target
+!.mvn/wrapper/maven-wrapper.jar
+
+# NetBeans
+nbproject/private
+nbbuild
+dist
+nbdist
+.nb-gradle
+build
+
+# Visual Studio Code
+.vscode
+
+# Generals
+logs
+*.log
+out
+release
